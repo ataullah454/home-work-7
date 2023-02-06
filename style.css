@@ -78,9 +78,12 @@ ul{
     text-transform: uppercase;
     text-decoration: none;
     background-color: #cfc91d;
-    padding: 1px 42px;
+    padding: 19px 42px;
     display: inline-block;
     letter-spacing: 2px;
+}
+.banner .container{
+    height: 100%;
 }
 .banner .row{
     align-items: center;
